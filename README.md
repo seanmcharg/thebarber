@@ -10,5 +10,6 @@ It has 4 key objectives:
      
      
  If it is not immediatley apparent I'm a novice. I'm a designer who wants to learn how to make this. 
+ I'm starting to learn how to do this in mid January, I'm reading guides, and following instructions. As part of my job I have a super (I mean SUPER) basic knowledge of HTML.
  
  
